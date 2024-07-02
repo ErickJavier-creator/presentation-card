@@ -15,6 +15,9 @@ body{
     background: var(--off-Black);
     display: flex;
     justify-content: center;
+    aling-items: center;
+    height: 100vh;
+    margin: 0;
 }
 
 img{
