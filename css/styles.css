@@ -15,7 +15,7 @@ body{
     background: var(--off-Black);
     display: flex;
     justify-content: center;
-    aling-items: center;
+    align-items: center;
     height: 100vh;
     margin: 0;
 }
@@ -47,7 +47,7 @@ main{
     align-items: center;
 }
 
-.top__text{
+section{
     color: var(--white);
     font-size: 14px;
 }
